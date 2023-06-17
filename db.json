@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product Ad asda",
+      "price": 200,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4CtaDk3U49ukzwQTk5h6n1mwtWT9HULw-piOF2eF4&s",
+      "quantity": 1,
+      "description": "Ảnh 01"
+    },
+    {
+      "name": "Sản phẩm B",
+      "price": 200,
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4CtaDk3U49ukzwQTk5h6n1mwtWT9HULw-piOF2eF4&s",
+      "quantity": 2,
+      "description": "Ảnh 01"
+    },
+    {
+      "name": "Sản phẩm C",
+      "price": 300,
+      "id": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4CtaDk3U49ukzwQTk5h6n1mwtWT9HULw-piOF2eF4&s",
+      "quantity": 3,
+      "description": "Ảnh 01"
+    },
+    {
+      "name": "Sản phẩm D",
+      "price": 123455,
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4CtaDk3U49ukzwQTk5h6n1mwtWT9HULw-piOF2eF4&s",
+      "quantity": 0,
+      "description": "ZZZZZZ"
+    }
+  ],
+  "users": [
+    {
+      "email": "dangquanghuykk@gmail.com",
+      "password": "$2a$10$E50QAk1lpXEM2ewhEleMs.gyLARXyPMP7NnAPXnWSdWdLZqcHWnP6",
+      "id": 1
+    },
+    {
+      "email": "Dangquanghuy@gmail.com",
+      "password": "$2a$10$0/VD2sGi4rZ80QWyFsy3MOqr/tS4VY7vnz9irN0xeLLB27oxAPcpK",
+      "id": 2
+    },
+    {
+      "email": "hfaiij@gmail.com",
+      "password": "$2a$10$qaR7i5ihzMdWnXXihN3Euu2hJFvDvdfSechAoY4a8qg9MLp.6YHDO",
+      "id": 3
+    }
+  ]
+}
